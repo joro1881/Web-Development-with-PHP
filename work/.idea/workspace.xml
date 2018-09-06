@@ -12,55 +12,55 @@
     <session id="-1204688487">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.0" value="1" />
-          <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.9" value="3" />
+          <entry key="project.opened" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="php" value="14" />
+          <entry key="php" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="PHP" value="14" />
+          <entry key="PHP" value="36" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="php" value="2854" />
+          <entry key="dummy" value="3" />
+          <entry key="php" value="10192" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="9" />
-          <entry key="PHP" value="2845" />
+          <entry key="PHP" value="10183" />
+          <entry key="PLAIN_TEXT" value="3" />
         </counts>
       </usages-collector>
     </session>
   </component>
+  <component name="FavoritesManager">
+    <favorites_list name="work" />
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/50ShadesGrey.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="277">
-              <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="35" selection-end-column="6" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
       <find>ca</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -74,6 +74,24 @@
         <option value="$PROJECT_DIR$/DrawS.php" />
         <option value="$PROJECT_DIR$/RGB Table.php" />
         <option value="$PROJECT_DIR$/50ShadesGrey.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/LectureExamples.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/PersonalInfo.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/SumTwoNumbers.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/DumpVariable.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/IntervalOfNumbers.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/RestaurantDiscount.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/StringLenght.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/PointsCounter.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/LazySundays.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/AdvanceSyntax/ExampleLectures.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/OOPbasics/Laboratory.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/OOPbasics/Engine.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/OOPbasics/RewriteAcode.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/OOPbasics/Anonymous.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/OOPfundaments1/check.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/OOPfundaments1/Vechile.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/OOPfundaments1/Car.php" />
+        <option value="$PROJECT_DIR$/WebDevBasics/OOPfundaments1/Bicycle.php" />
       </list>
     </option>
   </component>
@@ -89,7 +107,8 @@
       <server host="localhost" id="ee82a7f0-c6d9-4b68-9b5a-05ab8ec45a80" name="XAMPP" />
     </servers>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.2" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="85" />
     <option name="y" value="25" />
     <option name="width" value="1750" />
@@ -161,6 +180,7 @@
       </profile-state>
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -176,7 +196,14 @@
             </path>
             <path>
               <item name="work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="bcb0276e:PhpExternalLibrariesNodePatcher$PatchedExternalLibrariesNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="WebDevBasics" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="work" type="b2602c69:ProjectViewProjectNode" />
+              <item name="work" type="462c0819:PsiDirectoryNode" />
+              <item name="WebDevBasics" type="462c0819:PsiDirectoryNode" />
+              <item name="OOPfundaments1" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -186,9 +213,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\work\WebDevBasics\AdvanceSyntax" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -203,12 +236,15 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="XAMPP" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="XAMPP" start_url="/work/WebDevBasics/LectureExamples.php">
+    <configuration name="XAMPP" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="XAMPP" start_url="/work/WebDevBasics/OOPfundaments1/Bicycle.php">
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PhpWebAppRunConfigurationType" factoryName="PHP Web Application" server_name="XAMPP">
       <method v="2" />
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\George\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -219,19 +255,24 @@
       <updated>1534708417107</updated>
       <workItem from="1534708418264" duration="4910000" />
       <workItem from="1534776887664" duration="10381000" />
+      <workItem from="1535614513160" duration="9487000" />
+      <workItem from="1535629689945" duration="93000" />
+      <workItem from="1535629799458" duration="1442000" />
+      <workItem from="1535631526550" duration="1437000" />
+      <workItem from="1536225244084" duration="7044000" />
+      <workItem from="1536243924263" duration="5743000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15291000" />
+    <option name="totallyTimeSpent" value="45813000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.068456374" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16979866" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24966443" />
+      <window_info id="Favorites" order="2" side_tool="true" weight="0.3295302" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -241,9 +282,9 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,79 +311,95 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Multiply Two Numbers.php">
+    <entry file="file://$PROJECT_DIR$/Multiply Two Numbers.php" />
+    <entry file="file://$PROJECT_DIR$/Multiply a Number by 2.php" />
+    <entry file="file://$PROJECT_DIR$/NumbersFrom1toN.php" />
+    <entry file="file://$PROJECT_DIR$/Productof3.php" />
+    <entry file="file://$PROJECT_DIR$/ManipulatingHTML.php" />
+    <entry file="file://$PROJECT_DIR$/DrawS.php" />
+    <entry file="file://$PROJECT_DIR$/Sub-Lists.php" />
+    <entry file="file://$PROJECT_DIR$/RGB Table.php" />
+    <entry file="file://$PROJECT_DIR$/50ShadesGrey.php" />
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/LectureExamples.php" />
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/PersonalInfo.php" />
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/SumTwoNumbers.php" />
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/DumpVariable.php" />
+    <entry file="file://$PROJECT_DIR$/PHPstart/RGB Table.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PHPstart/NumbersFrom1toN.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="7" lean-forward="true" selection-end-line="27" selection-end-column="7" />
+        <state relative-caret-position="460">
+          <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Multiply a Number by 2.php">
+    <entry file="file://$PROJECT_DIR$/PHPstart/Multiply Two Numbers.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/IntervalOfNumbers.php" />
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/StringLenght.php" />
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/LazySundays.php" />
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/AdvanceSyntax/ExampleLectures.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" lean-forward="true" selection-start-column="1" selection-end-column="1" />
+        <state relative-caret-position="160">
+          <caret line="49" column="2" lean-forward="true" selection-start-line="49" selection-start-column="2" selection-end-line="49" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NumbersFrom1toN.php">
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/OOPbasics/Engine.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="6" selection-start-line="6" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="400">
+          <caret line="34" column="97" selection-start-line="34" selection-start-column="97" selection-end-line="34" selection-end-column="97" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Productof3.php">
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/OOPbasics/Car.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1340">
-          <caret line="72" column="7" lean-forward="true" selection-start-line="72" selection-start-column="7" selection-end-line="72" selection-end-column="7" />
+        <state relative-caret-position="-283">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ManipulatingHTML.php">
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/OOPbasics/RewriteAcode.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="7" selection-start-line="7" selection-end-line="33" selection-end-column="7" />
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DrawS.php">
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/OOPbasics/Anonymous.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="19" column="22" lean-forward="true" selection-start-line="19" selection-start-column="22" selection-end-line="19" selection-end-column="22" />
-          <folding>
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#button#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="360">
+          <caret line="23" column="22" selection-start-line="23" selection-start-column="22" selection-end-line="23" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Sub-Lists.php">
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/OOPfundaments1/Car.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="537">
-          <caret line="40" lean-forward="true" selection-start-line="8" selection-end-line="40" />
+        <state relative-caret-position="660">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/RGB Table.php">
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/OOPfundaments1/Vechile.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" selection-start-line="8" selection-end-line="49" />
-          <folding>
-            <element signature="n#style#0;n#td#0;n#tr#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#1;n#tr#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#td#2;n#tr#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="293">
+          <caret line="25" column="10" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/50ShadesGrey.php">
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/OOPfundaments1/check.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="277">
-          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="35" selection-end-column="6" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="600">
+          <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebDevBasics/OOPfundaments1/Bicycle.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="317">
+          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
