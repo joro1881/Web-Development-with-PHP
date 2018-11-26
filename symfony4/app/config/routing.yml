@@ -1,0 +1,3 @@
+app:
+    resource: '@Exercise4Bundle/Controller/'
+    type: annotation
