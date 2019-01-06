@@ -1,0 +1,112 @@
+body {
+    position: relative;
+    background-image: url("paper_texture329.png");
+    font-family: "journal.ttf", Times, sans-serif;
+}
+
+.affix {
+    top: 20px;
+}
+
+div.col-sm-9 div {
+    height: 500px;
+    font-size: 28px;
+    font-family: "journal.ttf";
+}
+
+a[href^="#"] {
+    color: black;
+}
+
+/*#section1 {color: #fff; background-color: #1E88E5;}
+#section2 {color: #fff; background-color: #673ab7;}
+#section3 {color: #fff; background-color: #ff9800;}
+#section41 {color: #fff; background-color: #00bcd4;}
+#section42 {color: #fff; background-color: #009688;}*/
+#section2 {
+    border-width: 2px;
+    border-style: dotted;
+}
+
+#section3 {
+    border-width: 2px;
+    border-style: dotted;
+}
+
+#section41 {
+    border-width: 2px;
+    border-style: dotted;
+}
+
+#section42 {
+    border-width: 2px;
+    border-style: dotted;
+}
+
+@media screen and (max-width: 810px) {
+    #section1, #section2, #section3, #section41, #section42 {
+        margin-left: 25px;
+    }
+}
+
+.carousel-inner
+
+=
+.item
+
+=
+img,
+.carousel-inner
+
+=
+.item
+
+=
+a
+
+=
+img {
+    s width: 100%;
+    margin: auto;
+}
+
+img {
+    border-radius: 55px 55px 55px 55px;
+}
+
+a.tooltip-carousel {
+    top: 100px;
+    left: 100px;
+    padding: 5px 10px;
+    color: gold;
+    display: inline-block
+}
+
+.tooltip-carousel {
+    position: absolute;
+    z-index: 11;
+}
+
+.caraousel-tooltip-item {
+    display: none;
+}
+
+.caraousel-tooltip-item.active {
+    display: block;
+}
+
+#chars {
+    font-size: 65%
+}
+
+p, dd {
+    font-size: 65%
+}
+
+td {
+    padding: 16px;
+}
+
+#section42 {
+    font-size: 120%;
+} 
