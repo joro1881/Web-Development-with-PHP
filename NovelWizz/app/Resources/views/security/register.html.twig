@@ -1,0 +1,36 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+
+    <div class="container-fluid">
+        <form class="form-horizontal" method="post" name="register">
+            <div class="form-group form-group-lg">
+
+                <label class="col-sm-2 control-label">Your full name: </label>
+                <div class="col-sm-10">
+                    <input class="form-control" type="text" name="writers[fullName]">
+                </div>
+
+                <label class="col-sm-2 control-label">Writer nick name:</label>
+                <div class="col-sm-10">
+                    <input class="form-control" type="text" name="writers[nickname]" placeholder="login name">
+                </div>
+
+                <label class="col-sm-2 control-label"> Registration email: </label>
+                <div class="col-sm-10">
+                    <input class="form-control" type="email" name="writers[email]">
+                </div>
+
+                <label class="col-sm-2 control-label"> Password : </label>
+                <div class="col-sm-10">
+                    <input class="form-control" type="password" name="writers[password]">
+                </div>
+
+                <div class="col-sm-10">
+                    <input type="hidden" name="_csrf_token" value="{{ csrf_token('register') }}"/>
+                    <input class="form-control" type="submit" value="Register">
+                </div>
+            </div>
+        </form>
+    </div>
+{% endblock %}
